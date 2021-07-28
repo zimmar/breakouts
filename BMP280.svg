@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11mm"
+   height="13mm"
+   viewBox="0 0 11 13"
+   version="1.1"
+   id="svg1528"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="BMP280.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1530"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:zoom="11.313708"
+     inkscape:cx="25.853592"
+     inkscape:cy="18.915106"
+     inkscape:window-width="1278"
+     inkscape:window-height="1048"
+     inkscape:window-x="1958"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1525" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.33569,-29.734983)">
+    <path
+       id="rect1634"
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke-width:0.999999"
+       d="M 3.7792969 0 C 1.6854386 0 2.3684758e-15 1.6854386 0 3.7792969 L 0 45.353516 C 0 47.447374 1.6854386 49.134766 3.7792969 49.134766 L 37.794922 49.134766 C 39.88878 49.134766 41.574219 47.447374 41.574219 45.353516 L 41.574219 3.7792969 C 41.574219 1.6854386 39.88878 -1.1842379e-15 37.794922 0 L 3.7792969 0 z M 10.582031 2.078125 A 8.5039366 8.5039366 0 0 1 19.087891 10.583984 A 8.5039366 8.5039366 0 0 1 10.582031 19.087891 A 8.5039366 8.5039366 0 0 1 2.078125 10.583984 A 8.5039366 8.5039366 0 0 1 10.582031 2.078125 z M 6.3496094 41.386719 A 2.8346457 2.8346457 0 0 1 9.1835938 44.220703 A 2.8346457 2.8346457 0 0 1 6.3496094 47.054688 A 2.8346457 2.8346457 0 0 1 3.515625 44.220703 A 2.8346457 2.8346457 0 0 1 6.3496094 41.386719 z M 15.949219 41.386719 A 2.8346457 2.8346457 0 0 1 18.783203 44.220703 A 2.8346457 2.8346457 0 0 1 15.949219 47.054688 A 2.8346457 2.8346457 0 0 1 13.115234 44.220703 A 2.8346457 2.8346457 0 0 1 15.949219 41.386719 z M 25.548828 41.386719 A 2.8346457 2.8346457 0 0 1 28.384766 44.220703 A 2.8346457 2.8346457 0 0 1 25.548828 47.054688 A 2.8346457 2.8346457 0 0 1 22.714844 44.220703 A 2.8346457 2.8346457 0 0 1 25.548828 41.386719 z M 35.150391 41.386719 A 2.8346457 2.8346457 0 0 1 37.984375 44.220703 A 2.8346457 2.8346457 0 0 1 35.150391 47.054688 A 2.8346457 2.8346457 0 0 1 32.314453 44.220703 A 2.8346457 2.8346457 0 0 1 35.150391 41.386719 z "
+       transform="matrix(0.26458333,0,0,0.26458333,28.33569,29.734983)" />
+    <path
+       id="path1949"
+       style="opacity:1;fill:#e6ab00;fill-opacity:1;stroke-width:8.33333"
+       d="M 10.582031 1.1347656 A 9.4488189 9.4488189 0 0 0 1.1347656 10.582031 A 9.4488189 9.4488189 0 0 0 10.582031 20.03125 A 9.4488189 9.4488189 0 0 0 20.03125 10.582031 A 9.4488189 9.4488189 0 0 0 10.582031 1.1347656 z M 10.582031 2.078125 A 8.503937 8.503937 0 0 1 19.085938 10.582031 A 8.503937 8.503937 0 0 1 10.582031 19.085938 A 8.503937 8.503937 0 0 1 2.078125 10.582031 A 8.503937 8.503937 0 0 1 10.582031 2.078125 z "
+       transform="matrix(0.26458333,0,0,0.26458333,28.33569,29.734983)" />
+    <path
+       id="path5384"
+       style="opacity:1;fill:#e6ab00;fill-opacity:1;stroke-width:0.999999"
+       d="M 6.3496094 40.441406 A 3.7795276 3.7795276 0 0 0 2.5703125 44.220703 A 3.7795276 3.7795276 0 0 0 6.3496094 48 A 3.7795276 3.7795276 0 0 0 10.128906 44.220703 A 3.7795276 3.7795276 0 0 0 6.3496094 40.441406 z M 6.3496094 41.386719 A 2.8346457 2.8346457 0 0 1 9.1835938 44.220703 A 2.8346457 2.8346457 0 0 1 6.3496094 47.054688 A 2.8346457 2.8346457 0 0 1 3.515625 44.220703 A 2.8346457 2.8346457 0 0 1 6.3496094 41.386719 z "
+       transform="matrix(0.26458333,0,0,0.26458333,28.33569,29.734983)" />
+    <path
+       id="path5384-2"
+       style="fill:#e6ab00;fill-opacity:1;stroke-width:0.999999"
+       d="M 15.949219 40.441406 A 3.7795276 3.7795276 0 0 0 12.169922 44.220703 A 3.7795276 3.7795276 0 0 0 15.949219 48 A 3.7795276 3.7795276 0 0 0 19.728516 44.220703 A 3.7795276 3.7795276 0 0 0 15.949219 40.441406 z M 15.949219 41.386719 A 2.8346457 2.8346457 0 0 1 18.785156 44.220703 A 2.8346457 2.8346457 0 0 1 15.949219 47.054688 A 2.8346457 2.8346457 0 0 1 13.115234 44.220703 A 2.8346457 2.8346457 0 0 1 15.949219 41.386719 z "
+       transform="matrix(0.26458333,0,0,0.26458333,28.33569,29.734983)" />
+    <path
+       id="path5384-8"
+       style="fill:#e6ab00;fill-opacity:1;stroke-width:0.999999"
+       d="M 25.548828 40.441406 A 3.7795276 3.7795276 0 0 0 21.769531 44.220703 A 3.7795276 3.7795276 0 0 0 25.548828 48 A 3.7795276 3.7795276 0 0 0 29.330078 44.220703 A 3.7795276 3.7795276 0 0 0 25.548828 40.441406 z M 25.548828 41.386719 A 2.8346457 2.8346457 0 0 1 28.384766 44.220703 A 2.8346457 2.8346457 0 0 1 25.548828 47.054688 A 2.8346457 2.8346457 0 0 1 22.714844 44.220703 A 2.8346457 2.8346457 0 0 1 25.548828 41.386719 z "
+       transform="matrix(0.26458333,0,0,0.26458333,28.33569,29.734983)" />
+    <path
+       id="path5384-85"
+       style="fill:#e6ab00;fill-opacity:1;stroke-width:0.999999"
+       d="M 35.150391 40.441406 A 3.7795276 3.7795276 0 0 0 31.369141 44.220703 A 3.7795276 3.7795276 0 0 0 35.150391 48 A 3.7795276 3.7795276 0 0 0 38.929688 44.220703 A 3.7795276 3.7795276 0 0 0 35.150391 40.441406 z M 35.150391 41.386719 A 2.8346457 2.8346457 0 0 1 37.984375 44.220703 A 2.8346457 2.8346457 0 0 1 35.150391 47.054688 A 2.8346457 2.8346457 0 0 1 32.314453 44.220703 A 2.8346457 2.8346457 0 0 1 35.150391 41.386719 z "
+       transform="matrix(0.26458333,0,0,0.26458333,28.33569,29.734983)" />
+    <rect
+       fill="#303030"
+       stroke-width="0.0381126"
+       height="1.3715999"
+       width="2.0015731"
+       y="35.988091"
+       x="-33.736557"
+       id="middle"
+       style="opacity:0.8;fill:#808080"
+       transform="rotate(-90)" />
+    <rect
+       fill="#3d3d3d"
+       stroke-width="0.0381126"
+       height="0.12496801"
+       width="2.0015728"
+       y="35.988091"
+       x="-33.736557"
+       id="top"
+       style="opacity:0.8;fill:#4d4d4d"
+       transform="rotate(-90)" />
+    <rect
+       fill="#000000"
+       stroke-width="0.0381126"
+       height="0.12496801"
+       width="2.0015728"
+       y="37.232689"
+       x="-33.736557"
+       id="bottom"
+       style="opacity:0.8;fill:#4d4d4d"
+       transform="rotate(-90)" />
+    <polygon
+       fill="#141414"
+       points="700,30 692.5,54.6 692.5,275.4 700,300 "
+       id="right"
+       transform="matrix(0,-0.00285939,0.00508,0,35.83569,33.736556)"
+       style="opacity:0.8;fill:#333333" />
+    <polygon
+       fill="#1f1f1f"
+       points="0,300 0,30 7.5,54 7.5,275 "
+       id="left"
+       transform="matrix(0,-0.00508,0.00508,0,35.83569,33.736556)"
+       style="opacity:0.8;fill:#4d4d4d" />
+    <circle
+       fill="#212121"
+       stroke-width="0.0508"
+       id="circle13"
+       r="0.10464801"
+       cy="36.643318"
+       cx="-33.511387"
+       style="opacity:0.8;fill:#cccccc"
+       transform="rotate(-90)" />
+    <text
+       font-size="60"
+       y="29.326056"
+       x="40.671337"
+       id="label"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.463091px;font-family:OCRA;-inkscape-font-specification:OCRA;text-anchor:middle;opacity:0.8;fill:#e6e6e6;stroke-width:0.00865764"
+       transform="scale(0.90158246,1.1091609)"><tspan
+         sodipodi:role="line"
+         id="tspan31806"
+         x="40.671337"
+         y="29.326056"
+         style="stroke-width:0.00865764">BME</tspan><tspan
+         sodipodi:role="line"
+         id="tspan31808"
+         x="40.671337"
+         y="29.904919"
+         style="stroke-width:0.00865764">280</tspan></text>
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.21844001"
+       width="0.1524"
+       y="37.28857"
+       x="-33.558754"
+       id="connector0pin"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.1524"
+       width="0.1524"
+       y="37.359688"
+       x="-33.558754"
+       id="connector0terminal"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <polygon
+       fill="#8c8c8c"
+       id="polygon18"
+       points="85,297 85,286 35,286 35,306 65,306 "
+       transform="matrix(0,-0.00508,0.00508,0,35.83569,33.736556)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.21844001"
+       width="0.1524"
+       x="-33.558754"
+       id="connector13pin"
+       y="35.83569"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.1524"
+       width="0.1524"
+       x="-33.558754"
+       id="connector13terminal"
+       y="35.83569"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <polygon
+       fill="#8c8c8c"
+       id="polygon22"
+       points="35,23 35,43 85,43 85,32 65,23 "
+       transform="matrix(0,-0.00508,0.00508,0,35.83569,33.736556)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.1524"
+       width="0.1524"
+       y="37.329208"
+       x="-32.034756"
+       id="connector6terminal"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <polygon
+       fill="#8c8c8c"
+       id="polygon26"
+       points="665,286 615,286 615,297 635,306 665,306 "
+       transform="matrix(0,-0.00508,0.00508,0,35.80521,35.260556)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.1524"
+       width="0.1524"
+       y="35.83569"
+       x="-32.034756"
+       id="connector7terminal"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <polygon
+       fill="#8c8c8c"
+       id="polygon30"
+       points="665,43 665,23 635,23 615,32 615,43 "
+       transform="matrix(0,-0.00508,0.00508,0,35.83569,35.260555)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.21844001"
+       width="0.1524"
+       y="35.83569"
+       x="-33.050755"
+       id="connector12pin"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.1524"
+       width="0.1524"
+       x="-33.050755"
+       id="connector12terminal"
+       y="35.83569"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <polygon
+       fill="#8c8c8c"
+       id="polygon34"
+       points="115,43 185,43 185,32 165,23 135,23 115,32 "
+       transform="matrix(0,-0.00508,0.00508,0,35.83569,33.736556)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.21844001"
+       width="0.1524"
+       y="35.83569"
+       x="-32.542755"
+       id="connector11pin"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.1524"
+       width="0.1524"
+       x="-32.542755"
+       id="connector11terminal"
+       y="35.83569"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <polygon
+       fill="#8c8c8c"
+       id="polygon38"
+       points="215,43 285,43 285,32 265,23 235,23 215,32 "
+       transform="matrix(0,-0.00508,0.00508,0,35.83569,33.736556)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.21844001"
+       width="0.1524"
+       y="37.28857"
+       x="-33.050755"
+       id="connector1pin"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.1524"
+       width="0.1524"
+       y="37.359688"
+       x="-33.050755"
+       id="connector1terminal"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <polygon
+       fill="#8c8c8c"
+       id="polygon54"
+       points="185,286 115,286 115,297 135,306 165,306 185,297 "
+       transform="matrix(0,-0.00508,0.00508,0,35.83569,33.736556)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.21844001"
+       width="0.1524"
+       y="37.28857"
+       x="-32.542755"
+       id="connector2pin"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <rect
+       fill="#8c8c8c"
+       stroke-width="0.0508"
+       height="0.1524"
+       width="0.1524"
+       y="37.359688"
+       x="-32.542755"
+       id="connector2terminal"
+       transform="rotate(-90)"
+       style="opacity:0.8" />
+    <polygon
+       fill="#8c8c8c"
+       id="polygon58"
+       points="285,286 215,286 215,297 235,306 265,306 285,297 "
+       transform="matrix(0,-0.00508,0.00508,0,35.83569,33.736556)"
+       style="opacity:0.8" />
+    <rect
+       style="opacity:0.8;fill:#b3b3b3;stroke-width:0.264583;fill-opacity:1"
+       id="rect8237"
+       width="0.5"
+       height="1"
+       x="35.33569"
+       y="34.234982" />
+    <rect
+       style="opacity:0.8;fill:#b3b3b3;stroke-width:0.264583;fill-opacity:1"
+       id="rect8237-5"
+       width="0.5"
+       height="1"
+       x="35.935692"
+       y="34.234982" />
+    <rect
+       style="opacity:0.8;fill:#b3b3b3;stroke-width:0.264583;fill-opacity:1"
+       id="rect8237-5-4"
+       width="0.5"
+       height="1"
+       x="36.53569"
+       y="34.234982" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       id="rect10416"
+       width="1"
+       height="1"
+       x="30.83569"
+       y="37.234982" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       id="rect10416-3"
+       width="1"
+       height="1"
+       x="33.435692"
+       y="37.234982" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.41111px;line-height:1.25;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:none;stroke-width:0.264583;fill:#ffffff"
+       x="28.663095"
+       y="36.820969"
+       id="text12961"><tspan
+         sodipodi:role="line"
+         id="tspan12959"
+         style="stroke-width:0.264583;fill:#ffffff"
+         x="28.663095"
+         y="36.820969">BME/BMP280</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+       x="-40.106079"
+       y="30.543036"
+       id="text21233"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan21231"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="-40.106079"
+         y="30.543036">VIN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+       x="-40.31646"
+       y="33.057503"
+       id="text21233-3"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan21231-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="-40.31646"
+         y="33.057503">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+       x="-40.278427"
+       y="35.557503"
+       id="text21233-5"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan21231-44"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="-40.278427"
+         y="35.557503">SCL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+       x="-40.276772"
+       y="38.157505"
+       id="text21233-0"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan21231-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Normal';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="-40.276772"
+         y="38.157505">SDA</tspan></text>
+  </g>
+</svg>
